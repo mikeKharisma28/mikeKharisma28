@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on backend project to implement Sitecore's Content Hub ONE
+- 🌱 I’m currently learning Fullstack Web Development, preferably Backend Development
+
 <!--
 **mikeKharisma28/mikeKharisma28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
