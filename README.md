@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on backend project to implement Sitecore's Content Hub ONE
+I am Michael, working as full time Lead Technical Consultant. I also code in my free time and will always continue learning.
+- 🔭 I’m currently working on backend project to implement Sitecore's Content Hub ONE and other C# projects
 - 🌱 I’m currently learning Fullstack Web Development, preferably Backend Development
 
 <!--
