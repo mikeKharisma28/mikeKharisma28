@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I am Michael, working as full time System Analyst in an Indonesian IT company. I also code in my free time and will always continue learning.
-- 🔭 I’m currently working on backend project to implement Sitecore's Content Hub ONE and other C# projects
-- 🌱 I’m currently learning Fullstack Web Development, preferably Backend Development
+- 🌱 I’m currently learning .NET Core and Java Spring Backend
 
 <!--
 **mikeKharisma28/mikeKharisma28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
