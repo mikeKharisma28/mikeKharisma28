@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 I am Michael, working as full time System Analyst in an Indonesian IT company. I also code in my free time and will always continue learning.
-- 🌱 I’m currently learning .NET Core and Java Spring Backend
+- 🌱 I’m a backend developer with .NET and Java background.
 - 🔭 I’m currently working Audit System and Master Plan Overhaul System using .NET 8.
-- 🔭 I’m also working on Procurement backend system and (possibly) Procurement web, as my mini project and to sharpen my skill in Java development.
+- 🔭 I’m also working on Procurement backend system and Procurement web, as my mini project and to sharpen my skill in Java development.
 
 <!--
 **mikeKharisma28/mikeKharisma28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
